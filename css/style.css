@@ -270,49 +270,49 @@ section img {
 	cursor: pointer;
 	/*width: 3.125rem;*/
 	height: 3.125rem;
-	background: url(../images/noActive1.png.) no-repeat 50% 50%;
+	background: url(../images/noActive1.png) no-repeat 50% 50%;
 	
 }
 .fb:hover{
 	background: url(../images/Active1.png) no-repeat 50% 50%;
 }
 .tw{
-	background: url(../images/noActive2.png.) no-repeat 50% 50%;
+	background: url(../images/noActive2.png) no-repeat 50% 50%;
 	
 }
 .tw:hover{
 	background: url(../images/Active2.png) no-repeat 50% 50%;
 }
 .gplus{
-	background: url(../images/noActive3.png.) no-repeat 50% 50%;
+	background: url(../images/noActive3.png) no-repeat 50% 50%;
 	
 }
 .gplus:hover{
 	background: url(../images/Active3.png) no-repeat 50% 50%;
 }
 .pin{
-	background: url(../images/noActive4.png.) no-repeat 50% 50%;
+	background: url(../images/noActive4.png) no-repeat 50% 50%;
 	
 }
 .pin:hover{
 	background: url(../images/Active4.png) no-repeat 50% 50%;
 }
 .insta{
-	background: url(../images/noActive5.png.) no-repeat 50% 50%;
+	background: url(../images/noActive5.png) no-repeat 50% 50%;
 	
 }
 .insta:hover{
 	background: url(../images/Active5.png) no-repeat 50% 50%;
 }
 .stumble{
-	background: url(../images/noActive6.png.) no-repeat 50% 50%;
+	background: url(../images/noActive6.png) no-repeat 50% 50%;
 	
 }
 .stumble:hover{
 	background: url(../images/Active6.png) no-repeat 50% 50%;
 }
 .feed{
-	background: url(../images/noActive7.png.) no-repeat 50% 50%;
+	background: url(../images/noActive7.png) no-repeat 50% 50%;
 	
 }
 .feed:hover{
